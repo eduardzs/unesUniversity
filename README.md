@@ -1,4 +1,4 @@
-# unesUniversity
+# UNES University
 
 Este é o primeiro projeto do Curso Desenvolvimento Web Completo - 20 cursos + 20 projetos da Udemy. O objetivo deste projeto é criar um site simples usando apenas HTML5. Este README fornecerá uma breve visão geral do projeto e como ele foi desenvolvido.
 
